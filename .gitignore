@@ -1,7 +1,9 @@
 # 実行ファイル
 *.out
+*.exe
+*.obj
 
-# 問題データ自体は無視
+# 問題データ自体は無視しつつ、ディレクトリ構成を保持
 /problems/**
 !/problems/**/
 !/problems/**/.gitkeep

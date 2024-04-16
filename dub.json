@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"InTheBloom"
+	],
+	"copyright": "Copyright © 2024, InTheBloom",
+	"description": "Library verifier written in D.",
+	"license": "CC0",
+	"name": "library-verifier"
+}
