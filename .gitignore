@@ -1,5 +1,7 @@
 # 実行ファイル
 *.out
 
-# 問題データ
-/problems/
+# 問題データ自体は無視
+/problems/**
+!/problems/**/
+!/problems/**/.gitkeep
