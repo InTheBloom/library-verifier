@@ -1,0 +1,11 @@
+[
+    {
+        "language" : "D",
+        "compile" : "env dmd -of=\"{tmpdir}/a.out\" {target_file}",
+        "execute" : "{target_dir}/a.out",
+        "filename_extension" : "d",
+        "test_file_suffix" : "_test.d"
+    },
+    {
+    }
+]
